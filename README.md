@@ -4,6 +4,8 @@ A text-based dungeon crawler written in Java. You wake up in a dark, four-room d
 
 The whole game runs in the terminal. No external libraries, no build tools — just the JDK.
 
+**Authors:** [Kamal Yalchin](https://github.com/Camrado) · [Dmitriy Kuramshin](https://github.com/Krmsh1n5)
+
 Built as a practical project for the **Object Oriented Programming 1 (OOP1)** course — see [Course context](#course-context) below.
 
 ## Features
